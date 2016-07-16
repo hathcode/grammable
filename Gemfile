@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#include Devise for user authentication
+gem 'devise', '>=3.2.4'
+
 #include TB3
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
