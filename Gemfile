@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#include CarrierWave for image uploading
+gem 'carrierwave'
+
 #include Devise for user authentication
 gem 'devise', '>=3.2.4'
 
